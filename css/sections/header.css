@@ -1,0 +1,13 @@
+.header__nav {
+	padding: 40px 0 0 77px;
+}
+
+.header__logo h4 {
+	font-family: var(--font-logo);
+	color: var(--gray-1);
+
+	font-size: 24px;
+	font-weight: 700;
+	letter-spacing: -1.92px;
+	text-transform: uppercase;
+}
